@@ -1,11 +1,11 @@
 
 """
 # -- --------------------------------------------------------------------------------------------------- -- #
-# -- project: A SHORT DESCRIPTION OF THE PROJECT                                                         -- #
+# -- project: Passive Investment vs Active Investment strategies                                         -- #
 # -- script: data.py : python script for data collection                                                 -- #
-# -- author: YOUR GITHUB USER NAME                                                                       -- #
+# -- author: marcosotm                                                                                   -- #
 # -- license: GPL-3.0 License                                                                            -- #
-# -- repository: YOUR REPOSITORY URL                                                                     -- #
+# -- repository: https://github.com/marcosotm/myst_lab1_MOTM.git                                         -- #
 # -- --------------------------------------------------------------------------------------------------- -- #
 """
 
@@ -14,7 +14,7 @@ import pandas as pd
 
 
 def archivos():
-    path = '/Users/Marcos/Documents/myst_lab1_MOTM/files/NAFTRAC_holdings'
+    path = 'files/NAFTRAC_holdings'
     abspath = os.path.abspath(path)
     archivos_lista = [f[:-4] for f in os.listdir(abspath) if os.path.isfile(os.path.join(abspath, f))]
     return archivos_lista
@@ -42,4 +42,5 @@ def data_archivos(files):
         # guardar en diccionario
         data_archivos_dict[i] = data
 
-        return data_archivos_dict
+
+    return data_archivos_dict

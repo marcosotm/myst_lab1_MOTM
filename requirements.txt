@@ -2,9 +2,9 @@
 # -- --------------------------------------------------------------------------------------------------- -- #
 # -- project: A SHORT DESCRIPTION OF THE PROJECT                                                         -- #
 # -- script: requirements.txt : text file with the required libraries for the project                    -- #
-# -- author: YOUR GITHUB USER NAME                                                                       -- #
+# -- author: marcosotm                                                                      -- #
 # -- license: GPL-3.0 License                                                                            -- #
-# -- repository: YOUR REPOSITORY URL                                                                     -- #
+# -- repository: https://github.com/marcosotm/myst_lab1_MOTM.git                                         -- #
 # -- --------------------------------------------------------------------------------------------------- -- #
 
 pandas>=1.1.0

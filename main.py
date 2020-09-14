@@ -1,16 +1,18 @@
 
 """
 # -- --------------------------------------------------------------------------------------------------- -- #
-# -- project: A SHORT DESCRIPTION OF THE PROJECT                                                         -- #
+# -- project: Passive Investment vs Active Investment strategies                                         -- #
 # -- script: main.py : python script with the main functionality                                         -- #
-# -- author: YOUR GITHUB USER NAME                                                                       -- #
+# -- author: marcosotm                                                                                   -- #
 # -- license: GPL-3.0 License                                                                            -- #
-# -- repository: YOUR REPOSITORY URL                                                                     -- #
+# -- repository: https://github.com/marcosotm/myst_lab1_MOTM.git                                         -- #
 # -- --------------------------------------------------------------------------------------------------- -- #
 """
 
 import data as dt
 import functions as fn
+import pandas as pd
+
 
 
 # data.py

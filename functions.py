@@ -1,11 +1,11 @@
 
 """
 # -- --------------------------------------------------------------------------------------------------- -- #
-# -- project: A SHORT DESCRIPTION OF THE PROJECT                                                         -- #
+# -- project: Passive Investment vs Active Investment strategies                                         -- #
 # -- script: functions.py : python script with general functions                                         -- #
-# -- author: marcosotm                                                                      -- #
+# -- author: marcosotm                                                                                   -- #
 # -- license: GPL-3.0 License                                                                            -- #
-# -- repository: YOUR REPOSITORY URL                                                                     -- #
+# -- repository: https://github.com/marcosotm/myst_lab1_MOTM.git                                         -- #
 # -- --------------------------------------------------------------------------------------------------- -- #
 """
 
